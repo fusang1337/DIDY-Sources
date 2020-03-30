@@ -240,6 +240,8 @@ CCTV-5+,http://111.39.197.79:6610/120000001001/wlds:8080/ysten-business/live/HD-
 凤凰中文,http://125.210.152.21:9090/live/FHZW.m3u8
 凤凰资讯,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
 凤凰资讯,http://125.210.152.21:9090/live/FHZX.m3u8
+凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv
+凤凰中文,http://liveali.ifeng.com/live/FHZW.flv
 凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
@@ -311,7 +313,7 @@ TVB 星河,http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01
 凤凰资讯,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 
-安农大学IPV6节目,#genre#
+安农大校内,#genre#
 CCTV1综合,http://itv.ahau.edu.cn/hls/cctv1hd.m3u8
 CCTV2财经,http://itv.ahau.edu.cn/hls/cctv2hd.m3u8
 CCTV3文艺,http://itv.ahau.edu.cn/hls/cctv3hd.m3u8
@@ -721,7 +723,7 @@ BTV影视,http://itv.ahau.edu.cn/hls/btv4.m3u8
 金普一套,http://itv.ahau.edu.cn/tv_radio_33684/tv_channel_1066__redirect__33684.m3u8
 
 
-网络平台收集,#genre#
+节目大全,#genre#
 CCTV-1,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV-2,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 CCTV-3,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
@@ -2289,8 +2291,6 @@ HBO2,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 高三历史2,https://charge.zuoyebang.cc/record_34ec6b90c6b284162f3293b79e08d675.mp4
 高三历史3,https://charge.zuoyebang.cc/record_d9837dac651917b589dbe5014f6c0e8f.mp4
 高三政治2,https://charge.zuoyebang.cc/record_30d27e82efa968c5be825bab0efc909e.mp4
-凤凰卫视资讯台,http://liveali.ifeng.com/live/FHZX.flv
-凤凰卫视中文台,http://liveali.ifeng.com/live/FHZW.flv
 腾讯一年级,https://live-edu.wasu.tv/live/QiEFuDao-lv1.m3u8
 腾讯二年级,https://live-edu.wasu.tv/live/QiEFuDao-lv2.m3u8
 腾讯三年级,https://live-edu.wasu.tv/live/QiEFuDao-lv3.m3u8

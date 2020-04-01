@@ -1967,7 +1967,6 @@ HKC有线财经资讯台,http://mott.cdn.cmi.chinamobile.com/livehls/MOB-NGW/01.
 澳视葡文,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
 澳门资讯,http://61.244.22.4/ch5/info_ch5.live/index.m3u8
 澳门综艺,http://61.244.22.4/ch6/hd_ch6.live/index.m3u8
-星蕾TV-新马印越,#genre#
 新加坡8频道(国语),http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 新加坡5频道(英语),https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 新加坡CNA频道,https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8

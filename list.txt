@@ -1950,7 +1950,6 @@ Babytv,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 佳吉电视,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
 国会频道1台,http://61.58.60.230:9319/live/123.m3u8
 国会频道2台,http://61.58.60.230:9319/live/124.m3u8
-星蕾TV-港澳频道,#genre#
 香港卫视HKS,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 NOW爆谷台,http://104.233.176.70:13164/v/tvb.php
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
@@ -2025,11 +2024,9 @@ OKTO on 5,https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 马来西亚Sony gem,http://210.210.155.66/h/h19/01.m3u8
 mono29,http://live.pjmcdn.info/live/mono29.stream/playlist.m3u8
 马来西亚Astro RIA娱乐综合频道[480*360],http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-星蕾TV-新闻频道,#genre#
 壹新闻,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 台视财经新闻台,https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
 凤凰资讯,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-星蕾TV-4K超清区,#genre#
 YTN,http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
 YTN KOREA,http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b732000.m3u8
 YTN SCIENCE[480*270],http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8

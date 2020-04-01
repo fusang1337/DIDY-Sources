@@ -9,3 +9,15 @@ http://epg.51zmt.top:8000/e.xml
 软件不建议用手机使用，因为有些功能要用到遥控才能打开；
 软件只是空壳，需要按照我写的步骤添加源才能看，献给爱折腾的朋友们
 TiviMate  2.1.5 - Premium付费破解版.apk:
+
+
+
+
+分M3U和TXT两种格式，M3U适配Tivimate。TXT适配其它网络接口版。
+M3U主列表地址：https://homenet6.github.io/list.m3u
+
+TXT主列表地址：https://homenet6.github.io/list.txt
+
+电视台节目预告EPG：http://epg.51zmt.top:8000/e.xml
+
+佳片赏析EPG：https://homenet6.github.io/epg.xml
